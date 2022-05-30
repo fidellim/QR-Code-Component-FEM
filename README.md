@@ -12,18 +12,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Solution](./images/desktop_solution.png)
+![Mobile Solution](./images/mobile_solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/fidellim/QR-Code-Component-FEM)
+- Live Site URL: [Live Site](https://qr-code-component-fem-fidellim.netlify.app/)
 
 ## My process
 
