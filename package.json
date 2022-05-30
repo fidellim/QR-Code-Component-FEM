@@ -1,0 +1,36 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "The challenge is to build out this QR code component and get it looking as close to the design as possible.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidellim/QR-Code-Component-FEM.git"
+  },
+  "keywords": [],
+  "author": "Fidel Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidellim/QR-Code-Component-FEM/issues"
+  },
+  "homepage": "https://github.com/fidellim/QR-Code-Component-FEM#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.52.1",
+    "sass-loader": "^13.0.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0",
+    "webpack-merge": "^5.8.0"
+  }
+}
